@@ -1,0 +1,11 @@
+{
+ "topic": "GraphRAG for an app/workflow catalogue",
+ "question": "How to make a graph-based retrieval (GraphRAG) layer over an app/action catalogue more accurate, robust and self-correcting: graph construction, entity resolution/aliases, hybrid search, re-ranking, evaluation sets, drift detection and automatic repair \u00e2\u20ac\u201d with open-source projects and licences?",
+ "queries": [
+  "graphrag",
+  "lightrag",
+  "knowledge graph rag",
+  "hybrid search rerank"
+ ],
+ "urls": []
+}
