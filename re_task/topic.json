@@ -1,0 +1,13 @@
+{
+ "topic": "Make.com dashboard reverse-engineering",
+ "question": "From Make's public help and API docs: organization/team dashboard structure (scenarios, history, templates, connections, data stores, webhooks, usage of operations, plans/billing, team roles, API tokens with scopes). Plan limits and API token format/scopes.",
+ "queries": [
+  "make.com api",
+  "integromat api token scopes"
+ ],
+ "urls": [
+  "https://developers.make.com/api-documentation/authentication/api-key",
+  "https://www.make.com/en/pricing",
+  "https://www.make.com/en/help/general/dashboard"
+ ]
+}
